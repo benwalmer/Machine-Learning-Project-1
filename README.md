@@ -1,4 +1,5 @@
-# Naive Bayes and Logistic Regression for Text Classification
-
-- Used Bag of Words & Bernoulli representations for both Naive Bayes and Logistic Regression Models to determine if emails are spam or not spam.
-- See code in cs6375_project1_code, report in cs6375_project1_report
+# Naive Bayes and Logistic Regression for Email Classification
+###### - See code in cs6375_project1_code, report in cs6375_project1_report
+### - Used Bag of Words & Bernoulli representations to store words from given training dataset of emails labeled "spam" or "not spam"
+### - Used both Naive Bayes and Logistic Regression Models to classify emails as "Spam" or "Not Spam".
+### Acheived test accuracies of over 95% for both Naive Bayes and Logistic Regression models.
